@@ -1,0 +1,201 @@
+product_id,product_name,category,price
+P0001,Product_1,Home Appliances,1648
+P0002,Product_2,electronics,1300
+P0003,Product_3,Home Appliances,4661
+P0004,Product_4,fashion,1413
+P0005,Product_5,electronics,4860
+P0006,Product_6,fashion,248
+P0007,Product_7,electronics,0
+P0008,Product_8,fashion,411
+P0009,Unknown,Home,813
+P0010,Product_10,Home,3562
+P0011,Product_11,fashion,
+P0012,Product_12,electronics,3835
+P0013,Product_13,fashion,147
+P0014,Product_14,Home,2523
+P0015,Product_15,Electronics,2420
+P0016,Product_16,Home,2490
+P0017,Product_17,fashion,4113
+P0018,Product_18,Electronics,1011
+P0019,Product_19,fashion,4568
+P0020,Product_20,Home Appliances,505
+P0021,Product_21,Fashion,2861
+P0022,Product_22,Electronics,1047
+P0023,Product_23,Electronics,4616
+P0024,Product_24,Fashion,2595
+P0025,Product_25,Electronics,
+P0026,Product_26,Electronics,
+P0027,Product_27,Electronics,3039
+P0028,Product_28,Home Appliances,4355
+P0029,Product_29,Fashion,554
+P0030,Product_30,Electronics,2590
+P0031,Product_31,Fashion,1794
+P0032,Unknown,Fashion,2328
+P0033,Product_33,Home Appliances,2991
+P0034,Product_34,Electronics,1970
+P0035,Product_35,Electronics,
+P0036,Product_36,Home,3660
+P0037,Product_37,Home,424
+P0038,Unknown,Electronics,
+P0039,Product_39,Home,1412
+P0040,Product_40,Electronics,1233
+P0041,Product_41,Fashion,2207
+P0042,Product_42,Electronics,2497
+P0043,Unknown,Fashion,297
+P0044,Product_44,Electronics,675
+P0045,Product_45,Electronics,2684
+P0046,Product_46,Electronics,3602
+P0047,Product_47,Home Appliances,4776
+P0048,Product_48,Fashion,931
+P0049,Product_49,Home Appliances,735
+P0050,Product_50,Home,2087
+P0051,Product_51,Home,1416
+P0052,Product_52,Electronics,4533
+P0053,Product_53,Home,4409
+P0054,Product_54,Electronics,4812
+P0055,Product_55,Electronics,3581
+P0056,Product_56,Fashion,2961
+P0057,Unknown,Home Appliances,4191
+P0058,Unknown,Fashion,428
+P0059,Product_59,Home,2240
+P0060,Unknown,Fashion,2830
+P0061,Product_61,Home Appliances,2785
+P0062,Product_62,Fashion,3947
+P0063,Product_63,Fashion,1410
+P0064,Product_64,Electronics,4653
+P0065,Product_65,Fashion,3543
+P0066,Product_66,Home Appliances,4821
+P0067,Product_67,Electronics,4730
+P0068,Product_68,Electronics,4503
+P0069,Product_69,Fashion,1431
+P0070,Product_70,Home Appliances,4604
+P0071,Product_71,Electronics,4580
+P0072,Product_72,Home,4646
+P0073,Product_73,Home,321
+P0074,Product_74,Home Appliances,2968
+P0075,Product_75,Home,3245
+P0076,Unknown,Fashion,1730
+P0077,Product_77,Home,773
+P0078,Product_78,Home,4578
+P0079,Product_79,Home,4364
+P0080,Product_80,Fashion,1102
+P0081,Product_81,Fashion,1102
+P0082,Product_82,Fashion,1515
+P0083,Product_83,Home Appliances,3857
+P0084,Product_84,Electronics,1024
+P0085,Product_85,Home Appliances,2875
+P0086,Unknown,Electronics,2885
+P0087,Product_87,Fashion,837
+P0088,Product_88,Electronics,4083
+P0089,Product_89,Electronics,2087
+P0090,Product_90,Electronics,1283
+P0091,Product_91,Fashion,1662
+P0092,Product_92,Fashion,2871
+P0093,Product_93,Home,0
+P0094,Product_94,Home,1728
+P0095,Product_95,Fashion,3398
+P0096,Product_96,Fashion,1395
+P0097,Product_97,Electronics,829
+P0098,Product_98,Fashion,4249
+P0099,Product_99,Fashion,0
+P0100,Product_100,Fashion,4419
+P0101,Product_101,Fashion,1242
+P0102,Product_102,Home Appliances,4494
+P0103,Unknown,Fashion,1354
+P0104,Product_104,Home Appliances,1639
+P0105,Product_105,Home,0
+P0106,Product_106,Fashion,3500
+P0107,Product_107,Home,276
+P0108,Product_108,Electronics,4231
+P0109,Product_109,Home,1460
+P0110,Product_110,Fashion,0
+P0111,Unknown,Home,2982
+P0112,Unknown,Electronics,2755
+P0113,Product_113,Electronics,3869
+P0114,Product_114,Fashion,4037
+P0115,Unknown,Electronics,0
+P0116,Product_116,Home,3069
+P0117,Product_117,Electronics,2498
+P0118,Product_118,Home,481
+P0119,Product_119,Fashion,180
+P0120,Product_120,Home Appliances,1146
+P0121,Product_121,Electronics,3018
+P0122,Product_122,Home Appliances,3601
+P0123,Product_123,Home,3767
+P0124,Product_124,Home,3786
+P0125,Product_125,Home Appliances,4854
+P0126,Product_126,Fashion,4031
+P0127,Product_127,Electronics,1617
+P0128,Product_128,Electronics,3653
+P0129,Product_129,Fashion,2027
+P0130,Product_130,Home,2502
+P0131,Product_131,Home Appliances,3436
+P0132,Product_132,Home Appliances,211
+P0133,Unknown,Fashion,4422
+P0134,Product_134,Home Appliances,3309
+P0135,Product_135,Home,4934
+P0136,Product_136,Fashion,3907
+P0137,Product_137,Fashion,1715
+P0138,Product_138,Home Appliances,1089
+P0139,Product_139,Fashion,2638
+P0140,Product_140,Electronics,1250
+P0141,Product_141,Electronics,4460
+P0142,Product_142,Electronics,2914
+P0143,Product_143,Home,3084
+P0144,Product_144,Home,3111
+P0145,Product_145,Electronics,2165
+P0146,Product_146,Home,0
+P0147,Product_147,Fashion,1941
+P0148,Product_148,Home,2988
+P0149,Product_149,Electronics,1596
+P0150,Product_150,Fashion,3811
+P0151,Product_151,Fashion,1551
+P0152,Product_152,Home,3864
+P0153,Product_153,Fashion,3878
+P0154,Product_154,Home,3538
+P0155,Product_155,Fashion,3105
+P0156,Product_156,Home,4051
+P0157,Product_157,Fashion,2274
+P0158,Product_158,Electronics,3421
+P0159,Product_159,Home,2382
+P0160,Product_160,Home,3627
+P0161,Product_161,Fashion,4818
+P0162,Product_162,Home,2491
+P0163,Product_163,Home,303
+P0164,Product_164,Home Appliances,0
+P0165,Product_165,Fashion,4528
+P0166,Product_166,Fashion,3746
+P0167,Product_167,Fashion,280
+P0168,Product_168,Fashion,626
+P0169,Product_169,Fashion,3635
+P0170,Unknown,Home,1280
+P0171,Product_171,Fashion,156
+P0172,Product_172,Home Appliances,3130
+P0173,Product_173,Electronics,4458
+P0174,Product_174,Home Appliances,1765
+P0175,Product_175,Electronics,1887
+P0176,Product_176,Home,3643
+P0177,Product_177,Fashion,3841
+P0178,Product_178,Home,1438
+P0179,Product_179,Fashion,2228
+P0180,Product_180,Fashion,2084
+P0181,Product_181,Home Appliances,4700
+P0182,Product_182,Electronics,1473
+P0183,Product_183,Electronics,0
+P0184,Product_184,Fashion,3179
+P0185,Product_185,Electronics,0
+P0186,Product_186,Fashion,168
+P0187,Product_187,Fashion,369
+P0188,Product_188,Electronics,3913
+P0189,Product_189,Home,4486
+P0190,Product_190,Home,3630
+P0191,Product_191,Electronics,2919
+P0192,Product_192,Home Appliances,4495
+P0193,Product_193,Electronics,2714
+P0194,Product_194,Electronics,690
+P0195,Product_195,Home,1676
+P0196,Product_196,Fashion,4443
+P0197,Product_197,Fashion,421
+P0198,Product_198,Home Appliances,3982
+P0199,Product_199,Home Appliances,386
+P0200,Product_200,Fashion,4845
