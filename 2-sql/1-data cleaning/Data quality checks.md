@@ -22,11 +22,11 @@ FROM customer;
 
 
 
-CREATE TABLE orders\_clean
+CREATE TABLE orders\_clean AS
 
 SELECT DISTINCT(order\_id), customer\_id, order\_date,
 
-(COALESCE(delivery\_time\_min, (SELECT ROUND(AVG(delivery\_time\_min), 2) AS avg\_del\_time FROM orders))) AS delivery\_time\_min,
+ROUND(COALESCE(delivery\_time\_min, (SELECT ROUND(AVG(delivery\_time\_min), 2) AS avg\_del\_time FROM orders))) AS delivery\_time\_min,
 
 UPPER(COALESCE(payment\_mode, 'null')) AS payment\_mode
 
@@ -135,6 +135,7 @@ SELECT \* FROM customer\_clean c  LEFT JOIN orders\_clean o
 ON c.customer\_id=o.customer\_id
 
 WHERE o.order\_id IS NULL
+
 
 
 
